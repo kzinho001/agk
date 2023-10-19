@@ -1,0 +1,11 @@
+h1{
+    align-items: center;
+}
+body{
+    color: white;
+    background-color: blue;
+}
+header img{
+    width: 100px;
+height: 100px;  
+}
